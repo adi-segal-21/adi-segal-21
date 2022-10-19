@@ -21,3 +21,17 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?adi-segal-21=anuraghazra&show_icons=true&theme=dracula)
 
 -->
+
+
+### About Me : 
+- Full stack developer with emphasis on Front-End and design. 
+- Always learning.
+- 
+
+---
+### Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
+
+### My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?adi-segal-21=anuraghazra&show_icons=true&theme=dracula)
