@@ -1,16 +1,23 @@
-### Hi there 👋
+
 
 <!--
 **adi-segal-21/adi-segal-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### About Me : 
+- Full stack developer with emphasis on Front-End and design. 
+- Always learning.
+- 
+
+---
+### Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
+
+### My Stats :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?adi-segal-21=anuraghazra&show_icons=true&theme=dracula)
+
 -->
