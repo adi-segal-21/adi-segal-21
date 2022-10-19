@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ### My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-segal-21&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-segal-21&show_icons=true&theme=dracula)
