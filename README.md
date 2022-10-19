@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 -->
 
 
-### About Me : 
+##### About Me : 
 - Full stack developer with emphasis on Front-End and design. 
 - Always learning.
 - 
 
 ---
-### Languages and Tools :
+##### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
 
-### My Stats :
+
+---
+##### My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-segal-21&show_icons=true&theme=dracula)
