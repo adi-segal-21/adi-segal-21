@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ---
 ##### Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,webpack,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
 
 ### My Stats :
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ##### Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rails,ruby,webpack,bootstrap,codepen,figma,github,git,heroku,ps,pr)](https://skillicons.dev)
 
 
 ---
